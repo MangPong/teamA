@@ -6,7 +6,7 @@ import java.nio.file.Paths;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class TeamBTest {
+public class TeamATestB {
 
     @Test
     public  void testCalculateAge() {
