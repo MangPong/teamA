@@ -4,7 +4,7 @@ import java.nio.file.Paths;
 import java.io.IOException;
 import org.junit.Test;
 
-public class TeamBTest {
+public class TeamATestTeamB {
 
     @Test
     public void testCalculateAge() {
